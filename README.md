@@ -4,8 +4,8 @@ Tenho 23 anos e estou cursando Análise e Desenvolvimento de Sistemas.
 
 <div>
 <a href="https://github.com/gabrielamarqs">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayspiek&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayspiek&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielamarqs&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielamarqs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 #
