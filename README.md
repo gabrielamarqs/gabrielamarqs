@@ -17,7 +17,8 @@ Tenho 23 anos e estou cursando Análise e Desenvolvimento de Sistemas.
 <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />    
 <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />     
 <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
-<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />    
+<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+<img height="80em" src "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
 #  
@@ -28,8 +29,4 @@ Tenho 23 anos e estou cursando Análise e Desenvolvimento de Sistemas.
 <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
 
-#
 
-## Como me contatar:
-<a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNwfqfvMmNMXHSlRzJbMBdpVDCxjzKqdcMPZfZLZqZdhrvSvlsSGPKVRHZDRznCRLLZHwg"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/mayara-spieker-carvalho-b12a37232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
