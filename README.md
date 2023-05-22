@@ -1,5 +1,5 @@
 ### Olá, meu nome é Gabriela Marques
-Tenho 23 anos e estou cursando Análise e Desenvolvimento de Sistemas.
+Tenho 23 anos e estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Paraná.
 
 
 <div>
